@@ -2,6 +2,8 @@
 
 - create react app
 - configered tailwindCSS
+- Header 
+- Login form
 
 # Features
 
